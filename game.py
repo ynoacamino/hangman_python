@@ -17,7 +17,7 @@ window = turtle.Screen()
 
 floor = turtle.Turtle()
 floor.hideturtle()
-# floor.speed(70)
+floor.speed(70)
 floor.fillcolor("black")
 floor.penup()
 floor.goto(-200, -100)
